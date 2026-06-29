@@ -1,0 +1,274 @@
+canonical_identifier: bkk:krp/KR3ed094/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ed094/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 方劑辭典
+  identifiers:
+    krp: KR3ed094
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed094.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed094_000-jc.yaml, hash: 'sha256:5eb94dd97669fcec02750bfcef8ee1a0ef38b167d5f8782c533b25608bf507bf'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed094_000-jc.markers.yaml, hash: 'sha256:ee51577cdd6e708d4f0f22e012a39e5904a16e1b7f5c86902c9aeeb0d65f3009'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 173
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 111
+  label: 一畫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d4.h1s1
+    span:
+    - body
+    - 111
+    - 5531
+  label: 二畫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d5.h1s1
+    span:
+    - body
+    - 5531
+    - 19031
+  label: 三畫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d6.h1s1
+    span:
+    - body
+    - 19031
+    - 24110
+  label: 四畫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d7.h1s1
+    span:
+    - body
+    - 24110
+    - 32641
+  label: 五畫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d8.h1s1
+    span:
+    - body
+    - 32641
+    - 36226
+  label: 六畫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d9.h1s1
+    span:
+    - body
+    - 36226
+    - 41802
+  label: 七畫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d10.h1s1
+    span:
+    - body
+    - 41802
+    - 45398
+  label: 八畫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d11.h1s1
+    span:
+    - body
+    - 45398
+    - 50489
+  label: 九畫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d12.h1s1
+    span:
+    - body
+    - 50489
+    - 66850
+  label: 十畫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d13.h1s1
+    span:
+    - body
+    - 66850
+    - 80235
+  label: 十一畫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d14.h1s1
+    span:
+    - body
+    - 80235
+    - 88313
+  label: 十二畫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d15.h1s1
+    span:
+    - body
+    - 88313
+    - 93434
+  label: 十三畫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d16.h1s1
+    span:
+    - body
+    - 93434
+    - 95332
+  label: 十四畫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d17.h1s1
+    span:
+    - body
+    - 95332
+    - 97247
+  label: 十五畫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d18.h1s1
+    span:
+    - body
+    - 97247
+    - 99918
+  label: 十六畫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d19.h1s1
+    span:
+    - body
+    - 99918
+    - 101008
+  label: 十七畫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d20.h1s1
+    span:
+    - body
+    - 101008
+    - 103140
+  label: 十八畫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d21.h1s1
+    span:
+    - body
+    - 103140
+    - 103282
+  label: 十九畫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d22.h1s1
+    span:
+    - body
+    - 103282
+    - 104303
+  label: 二十畫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d23.h1s1
+    span:
+    - body
+    - 104303
+    - 104650
+  label: 二十一畫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d24.h1s1
+    span:
+    - body
+    - 104650
+    - 104655
+  label: 二十二畫缺
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d25.h1s1
+    span:
+    - body
+    - 104655
+    - 104898
+  label: 二十三畫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed094_jc_000-d26.h1s1
+    span:
+    - body
+    - 104898
+    - 105184
+  label: 二十四畫
+  type: section
+  level: 1
+hash: sha256:0f9a4aac48ac6b1329ad9e7e1c22fa412a44bd5cae6d71efd38f735be8d64017
