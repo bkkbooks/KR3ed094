@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed094/v1
 canonical_location: https://kanripo.org/bkk/KR3ed094/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 方劑辭典
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed094_000.yaml, hash: 'sha256:5eb94dd97669fcec02750bfcef8ee1a0ef38b167d5f8782c533b25608bf507bf'}
+  - {seq: 0, filename: KR3ed094_000.yaml, hash: 'sha256:9e919bae3ca07328173c5e8d161c6aae50c01107bb6b62ec9ce8487e1300c842'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed094_000.markers.yaml, hash: 'sha256:6d685fc0d39dccb11f90d16ef9fefcd46bf252c40e32e33ebf6324cb556630d2'}
+  - {seq: 0, role: markers, filename: assets/KR3ed094_000.markers.yaml, hash: 'sha256:c7750684a9c2986953a8f385b2f2f287d4111b298e875f08c30f31aec7cb3c07'}
 table_of_contents:
 - ref:
     seq: 0
@@ -271,4 +271,7 @@ table_of_contents:
   label: 二十四畫
   type: section
   level: 1
-hash: sha256:f978f1350372a1e56c28932563415e1cda3aff52a46d02aa6b1b0785caef9832
+hash: sha256:59c2fb41e2d6d9f7d740853159bb1864e8b145ccb9180352ec41e997fd3efcaf
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
