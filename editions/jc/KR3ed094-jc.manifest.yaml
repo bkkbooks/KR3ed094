@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed094_000-jc.yaml, hash: 'sha256:5eb94dd97669fcec02750bfcef8ee1a0ef38b167d5f8782c533b25608bf507bf'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed094_000-jc.markers.yaml, hash: 'sha256:ee51577cdd6e708d4f0f22e012a39e5904a16e1b7f5c86902c9aeeb0d65f3009'}
+  - {seq: 0, role: markers, filename: assets/KR3ed094_000-jc.markers.yaml, hash: 'sha256:3371b2be1577cf66f272875a141d3b79f45cde0f7abb59fe3c901931d4c4e144'}
 table_of_contents:
 - ref:
     seq: 0
@@ -271,4 +271,4 @@ table_of_contents:
   label: 二十四畫
   type: section
   level: 1
-hash: sha256:0f9a4aac48ac6b1329ad9e7e1c22fa412a44bd5cae6d71efd38f735be8d64017
+hash: sha256:44f7a9e13e68731deef0b1017bc6bc8fc5bc617d031f72f0d8d4516cb4cfbc38
